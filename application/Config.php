@@ -12,7 +12,7 @@ define('DEFAULT_LAYOUT', 'layout1');
 
 define('APP_NAME', 'Mi Framework');
 define('APP_SLOGAN', 'Mi primer framework php y mvc');
-define('APP_COMPANY', 'www.Jhon_Cachaya.com');
+define('APP_COMPANY', 'www.fernanda_gomez.com');
 
 define('db_host', 'localhost');
 define('db_user', 'root');
